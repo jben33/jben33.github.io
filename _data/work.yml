@@ -10,7 +10,7 @@ work:
         image: images/FB_IMG_1502207139698.jpg
   - category: School
     items:
-      - item: example.html
+      - item: example4.html
         image: /images/teach1.jpg
       - item: example3.html
         image: images/REU1.jpg
