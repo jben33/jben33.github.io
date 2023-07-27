@@ -15,15 +15,14 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+github_username:  jben33 # your github username
+linkedin: https://www.linkedin.com/in/justinklarkbennett/ # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://github.com/jben33 # the link
+# about_button_label: get hello # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -42,16 +41,8 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### **Howdy!** I am firstly a father of two wonderful sons, Jackson and Jason. I played HS football and baseball for Bryan High (Bryan, TX), football for Glendale Community College (Glendale, AZ), and competed in the USPA as an amateur powerlifter in the 242 lbs class for many years where I was mentored by Arizona elite master lifter Tim Sparks. I am incredibly competitive and enjoy watching the Texas Rangers any time I am able (see my R work on analyzing MLB team trends using a random forest architecture.)
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### At heart, I am a student of dynamical systems. I graduated Summa Cum Laude from Arizona State in 2021 with a BS in mathematics, mentored in data-driven dynamical systems under Yang Kuang, Eric Kostelich and UNC's Chris Jones (see my 2020 paper on applying data assimilation techniques to forecast metastasized prostate cancer growth). I graduated 2023 from Johns Hopkins with a MSE in applied mathematics, mentored by Yannis Kevrekidis in data-driven dynamical systems as well (see master's thesis on center manifold learning).
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+As of 2023, I am  a PhD student of mathematics at Texas A&M University. I am incredibly interested in dynamical systems, high-dimensional geometry and approximation theory.
