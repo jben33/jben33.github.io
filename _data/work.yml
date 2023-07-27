@@ -2,23 +2,15 @@
 # in the root directory
 
 work:
-  - category: About
+  - category: Personal
+    items: 
+      - item: example.html
+        image: images/daddy1.jpg
+      - item: example2.html
+        image: images/FB_IMG_1502207139698.jpg
+  - category: School
     items:
       - item: example.html
-        image: /images/teach1.jpg 
-      - item: example2.html
-        image: images/daddy1.jpg
+        image: /images/teach1.jpg
       - item: example3.html
-        image: images/FB_IMG_1502207139698.jpg
-      - item: example4.html
         image: images/REU1.jpg
-  #- category: Los Angeles
-    #items:
-      #- item: example.html
-     #   image: /images/LA1.jpg
-      #- item: example.html
-     #   image: /images/LA2.jpg
-      #- item: example2.html
-     #   image: /images/LA3.jpg
-     # - item: example3.html
-      #  image: /images/LA4.jpg
