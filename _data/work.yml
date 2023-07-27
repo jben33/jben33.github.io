@@ -12,13 +12,13 @@ work:
         image: images/daddy1.jpg
       - item: example3.html
         image: images/REU1.jpg
-  - category: Los Angeles
-    items:
-      - item: example.html
-        image: /images/LA1.jpg
-      - item: example.html
-        image: /images/LA2.jpg
-      - item: example2.html
-        image: /images/LA3.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
+  #- category: Los Angeles
+    #items:
+      #- item: example.html
+     #   image: /images/LA1.jpg
+      #- item: example.html
+     #   image: /images/LA2.jpg
+      #- item: example2.html
+     #   image: /images/LA3.jpg
+     # - item: example3.html
+      #  image: /images/LA4.jpg
