@@ -2,7 +2,7 @@
 # in the root directory
 
 work:
-  - category: New York City
+  - category: About
     items:
       - item: example.html
         image: /images/teach1.jpg 
