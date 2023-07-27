@@ -11,7 +11,7 @@ work:
       - item: example2.html
         image: images/daddy1.jpg
       - item: example3.html
-        image: /images/NYC4.jpg
+        image: images/REU1.jpg
   - category: Los Angeles
     items:
       - item: example.html
