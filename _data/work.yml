@@ -5,9 +5,9 @@ work:
   - category: New York City
     items:
       - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+        image: /images/116343561_10157937045968717_1315017261508295798_n.jpg 
       - item: example.html
-        image: /images/NYC2.jpg
+        image: /images/116343561_10157937045968717_1315017261508295798_n.jpg 
       - item: example2.html
         image: /images/NYC3.jpg
       - item: example3.html
