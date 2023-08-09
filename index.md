@@ -9,7 +9,7 @@ banner_subtitle: Mathematics Page
 background_image: /images/teach1.jpg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+# page_url: /hello only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 # favicon: /assets/ico/favicon.ico
