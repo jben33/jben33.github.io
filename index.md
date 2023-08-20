@@ -43,13 +43,12 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 Howdy! I am firstly a father of two wonderful sons, Jackson and Jason. I played HS football and baseball for Bryan High (Bryan, TX), football for Glendale Community College (Glendale, AZ), intramural soccer for team Optimal Control at Johns Hopkins (Baltimore, MD), and competed in the USPA as an amateur powerlifter in the 242 lbs class for many years where I was mentored by Arizona elite master lifter Tim Sparks. I am incredibly competitive and enjoy watching the Texas Rangers any time I am able (see my R work on analyzing MLB player salary trends using a random forest architecture.)
 
-At heart, I am a student of dynamical systems. 
-<ul> 
+<ul> At heart, I am a student of dynamical systems. 
     <li>I graduated Summa Cum Laude from Arizona State in 2021 with a BS in mathematics, mentored in data-driven dynamical systems under Yang Kuang, Eric Kostelich and Chris K.R.T. Jones (see my 2020 paper on applying data assimilation techniques to forecast metastasized prostate cancer growth).</li>
     <li>I have an interest in fusing dynamic models with data assimilation for improved predictive modeling (see the 2021 paper with NORCE scientist Geir Evensen and JCSDA/UCAR project scientist Christian Sampson on ensemble data assimilation of a SEIR-based covid model.)</li>
-  <li>I graduated 2023 from Johns Hopkins with a MSE in applied mathematics, mentored by Distinguished Professor Yannis Kevrekidis in data-driven dynamical systems and model reduction (see master's thesis on center manifold learning).</li>
-  <li>Some notable collaborators of mine are Dr. Tin Phan of Los Alamos national lab, and Dr. Emmanuel Fleurantin of George Mason University.</li>
-  <li>As of 2023, I am a NSF GRFP awardee and a PhD student of mathematics at Texas A&M University. I am incredibly interested in the theory of dynamical systems and high-dimensional geometry. I am also interested in applications to data-driven dynamics, and data science - particularly model reduction, and sparse recovery.</li>
+    <li>I graduated 2023 from Johns Hopkins with a MSE in applied mathematics, mentored by Distinguished Professor Yannis Kevrekidis in data-driven dynamical systems and model reduction (see master's thesis on center manifold learning).</li>
+    <li>Some notable collaborators of mine are Dr. Tin Phan of Los Alamos national lab, and Dr. Emmanuel Fleurantin of George Mason University.</li>
+    <li>As of 2023, I am a NSF GRFP awardee and a PhD student of mathematics at Texas A&M University. I am incredibly interested in the theory of dynamical systems and high-dimensional geometry. I am also interested in applications to data-driven dynamics, and data science - particularly model reduction, and sparse recovery.</li>
 </ul>   
   
 
